@@ -27,6 +27,7 @@ function App() {
   return (
     <div className="App">
       <h1>Our weather app</h1>
+      <h2>změna</h2>
     </div>
   );
 }
